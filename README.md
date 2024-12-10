@@ -7,12 +7,6 @@ This project implements a robust pipeline for detecting and classifying hand ges
 ## Table of Contents
 1. [Overview](#overview)
 2. [Workflow](#workflow)
-3. [Results](#results)
-4. [Requirements](#requirements)
-5. [Getting Started](#getting-started)
-6. [Contributing](#contributing)
-7. [License](#license)
-
 ---
 
 ## Overview
